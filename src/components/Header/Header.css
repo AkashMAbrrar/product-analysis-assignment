@@ -1,0 +1,16 @@
+nav a {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    padding: 50px;
+}
+
+.header {
+    border: 1px solid rebeccapurple;
+    background-color: cadetblue;
+    padding: 20px;
+}
+
+nav a:hover {
+    color: orange;
+}
