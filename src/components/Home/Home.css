@@ -1,0 +1,21 @@
+.home-container {
+    display: flex;
+    margin-top: 50px;
+}
+
+.img-container img {
+    width: 70%;
+    margin: 20px 40px;
+    padding-left: 20px 40px;
+}
+
+.info-container {
+    border: 1px solid cadetblue;
+    background-color: azure;
+    padding: 5px;
+    margin: 20px 40px;
+}
+
+.info-container span {
+    color: rgb(226, 136, 180);
+}
