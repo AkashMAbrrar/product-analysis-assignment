@@ -1,0 +1,12 @@
+.item-cart {
+    border: 1px solid steelblue;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    background-color: rgb(213, 206, 206);
+}
+
+.item-cart img {
+    width: 60px;
+    border-radius: 60px;
+}

@@ -1,5 +1,7 @@
 .home-container {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    flex-wrap: wrap;
     margin-top: 50px;
 }
 
@@ -18,4 +20,12 @@
 
 .info-container span {
     color: rgb(226, 136, 180);
+}
+
+.review-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
 }
