@@ -11,8 +11,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [https://visionary-stardust-ca9144.netlify.app/]https://visionary-stardust-ca9144.netlify.app/) to view it in your browser.
 
- “*”The page will reload when you make changes.\
- “*”You may also see any lint errors in the console.
+ *This website is a commercial website and analytical also.
+ *We are provided here some chart and recharch for products.
+ *This is an Educational website and reviews all the items.
+ *This website is made by current global prediction.
 
 ### `npm test`
 
