@@ -1,0 +1,8 @@
+.container {
+    align-items: center;
+    padding: 50px;
+}
+
+.container h1 {
+    color: red;
+}

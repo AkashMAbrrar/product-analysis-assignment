@@ -1,0 +1,6 @@
+.chart-container {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
