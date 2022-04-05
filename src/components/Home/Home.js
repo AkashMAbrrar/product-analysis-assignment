@@ -1,5 +1,6 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import useReviews from '../../hooks/useReviews';
 import Item from '../Item/Item';
 import './Home.css';
@@ -27,6 +28,7 @@ const Home = () => {
                     ></Item>)
                 }
             </div>
+            <Link className='review-btn' to="/review">See All Reviwes</Link>
         </div>
     );
 };

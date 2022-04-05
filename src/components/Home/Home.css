@@ -24,8 +24,12 @@
 
 .review-container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr 1fr;
     grid-gap: 10px;
     padding-top: 20px;
     padding-left: 20px;
+}
+
+.review-btn {
+    text-decoration: none;
 }
